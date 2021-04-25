@@ -1,0 +1,36 @@
+﻿  CM _lab2.cpp
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(32,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(35,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(36,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(43,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(44,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(57,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(61,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(67,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(68,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(72,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\CM _lab2.cpp(77,21): warning C4018: <: несоответствие типов со знаком и без знака
+  slave.cpp
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(13,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(23,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(29,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(45,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(49,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(55,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(62,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(67,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(69,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(70,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(76,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(109,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(125,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(134,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(136,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(146,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Alex\Desktop\work\CM _lab2\slave.cpp(153,18): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  CM _lab2.vcxproj -> C:\Users\Alex\Desktop\work\CM _lab2\Debug\CM _lab2.exe

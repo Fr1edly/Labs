@@ -1,0 +1,7 @@
+C:\Users\Gromax\source\repos\OOP6_7\OOP6_7\bin\Debug\OOP6_7.exe.config
+C:\Users\Gromax\source\repos\OOP6_7\OOP6_7\bin\Debug\OOP6_7.exe
+C:\Users\Gromax\source\repos\OOP6_7\OOP6_7\bin\Debug\OOP6_7.pdb
+C:\Users\Gromax\source\repos\OOP6_7\OOP6_7\obj\Debug\OOP6_7.csprojAssemblyReference.cache
+C:\Users\Gromax\source\repos\OOP6_7\OOP6_7\obj\Debug\OOP6_7.csproj.CoreCompileInputs.cache
+C:\Users\Gromax\source\repos\OOP6_7\OOP6_7\obj\Debug\OOP6_7.exe
+C:\Users\Gromax\source\repos\OOP6_7\OOP6_7\obj\Debug\OOP6_7.pdb

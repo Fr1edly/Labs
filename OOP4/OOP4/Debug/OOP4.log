@@ -1,0 +1,5 @@
+﻿  fraction.cpp
+  main.cpp
+C:\Users\Gromax\source\repos\OOP4\OOP4\main.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  OOP4.vcxproj -> C:\Users\Gromax\source\repos\OOP4\Debug\OOP4.exe
